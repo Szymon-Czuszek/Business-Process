@@ -10,7 +10,7 @@ The repository hosts BPMN diagrams representing end-to-end processes involved in
 
 In addition to the existing processes, this repository is designed to accommodate the inclusion of new business processes in the future. These may encompass various domains such as supply chain management, customer relationship management, financial management, and more. The repository structure is flexible and scalable to incorporate new processes seamlessly.
 
-# Repository Structure
+# 🏗️ Repository Structure
 
 **BPMN Diagrams:** Contains BPMN diagrams representing various business processes, including bike manufacturing, sales, and software development.
 

@@ -14,7 +14,7 @@ In addition to the existing processes, this repository is designed to accommodat
 
 **📊 BPMN Diagrams:** Contains BPMN diagrams representing various business processes, including bike manufacturing, sales, and software development.
 
-**BPM Files:** Stores BPM (Business Process Management) files for each process, providing detailed specifications and configurations.
+**⚙️ BPM Files:** Stores BPM (Business Process Management) files for each process, providing detailed specifications and configurations.
 
 **Documentation:** Detailed textual descriptions, integration guides, and additional resources for each business process.
 

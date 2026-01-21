@@ -18,7 +18,7 @@ In addition to the existing processes, this repository is designed to accommodat
 
 **📚 Documentation:** Detailed textual descriptions, integration guides, and additional resources for each business process.
 
-**Data Models:** Data models outlining the information flow and data structures utilized by different processes.
+**🗃️ Data Models:** Data models outlining the information flow and data structures utilized by different processes.
 
 **Contributions:** Guidelines and instructions for contributing to the repository, including adding new processes or improving existing ones.
 

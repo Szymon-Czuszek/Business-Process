@@ -16,7 +16,7 @@ In addition to the existing processes, this repository is designed to accommodat
 
 **⚙️ BPM Files:** Stores BPM (Business Process Management) files for each process, providing detailed specifications and configurations.
 
-**Documentation:** Detailed textual descriptions, integration guides, and additional resources for each business process.
+**📚 Documentation:** Detailed textual descriptions, integration guides, and additional resources for each business process.
 
 **Data Models:** Data models outlining the information flow and data structures utilized by different processes.
 

@@ -34,4 +34,4 @@ Contributions to this repository are highly encouraged. Whether you have insight
 
 This repository is licensed under the MIT License. Please refer to the LICENSE file for more information.
 
-Thank you for being a part of the Business Process Repository!
+🙏 Thank you for being a part of the Business Process Repository!

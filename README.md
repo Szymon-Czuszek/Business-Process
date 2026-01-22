@@ -22,7 +22,7 @@ In addition to the existing processes, this repository is designed to accommodat
 
 **Contributions:** Guidelines and instructions for contributing to the repository, including adding new processes or improving existing ones.
 
-# Usage
+# ▶️ Usage
 
 Stakeholders involved in bike manufacturing, sales, software development, and other operations can utilize this repository to gain insights into the end-to-end business processes. It serves as a valuable resource for understanding workflows, optimizing processes, and facilitating collaboration among teams.
 

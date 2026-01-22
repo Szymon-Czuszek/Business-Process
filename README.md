@@ -30,7 +30,7 @@ Stakeholders involved in bike manufacturing, sales, software development, and ot
 
 Contributions to this repository are highly encouraged. Whether you have insights, improvements, or new processes to include, your contributions are valuable to the community. Please refer to the contribution guidelines for instructions on how to contribute effectively.
 
-# License
+# 📜 License
 
 This repository is licensed under the MIT License. Please refer to the LICENSE file for more information.
 

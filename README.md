@@ -1,6 +1,7 @@
 # 🧭 Overview
 
-Welcome to the Business Process Repository! This repository serves as a comprehensive collection of business processes within various domains, including bike manufacturing, sales, and software development. It encompasses BPMN (Business Process Model and Notation) diagrams, BPM (Business Process Management) files, and other related resources.
+- 👋 Welcome to the Business Process Repository!
+- This repository serves as a comprehensive collection of business processes within various domains, including bike manufacturing, sales, and software development. It encompasses BPMN (Business Process Model and Notation) diagrams, BPM (Business Process Management) files, and other related resources.
 
 # 🗂️ Business Process Models
 

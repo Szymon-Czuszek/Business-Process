@@ -4,7 +4,7 @@
 - 📊 It encompasses BPMN (Business Process Model and Notation) diagrams, BPM (Business Process Management) files, and other related resources.
 
 # 🗂️ Business Process Models
-- The repository hosts BPMN diagrams representing end-to-end processes involved in designing, planning, and selling bikes within a bike company, as well as a new software development process. Each BPMN diagram provides a visual representation of the activities, decisions, and interactions among stakeholders and software modules.
+- 📈 The repository hosts BPMN diagrams representing end-to-end processes involved in designing, planning, and selling bikes within a bike company, as well as a new software development process. Each BPMN diagram provides a visual representation of the activities, decisions, and interactions among stakeholders and software modules.
 
 # 🚀 Future Expansion
 

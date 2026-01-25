@@ -5,7 +5,7 @@
 
 # 🗂️ Business Process Models
 - 📈 The repository hosts BPMN diagrams representing end-to-end processes involved in designing, planning, and selling bikes within a bike company, as well as a new software development process.
-- Each BPMN diagram provides a visual representation of the activities, decisions, and interactions among stakeholders and software modules.
+- 💻 Each BPMN diagram provides a visual representation of the activities, decisions, and interactions among stakeholders and software modules.
 
 # 🚀 Future Expansion
 - ➕ In addition to the existing processes, this repository is designed to accommodate the inclusion of new business processes in the future. These may encompass various domains such as supply chain management, customer relationship management, financial management, and more. The repository structure is flexible and scalable to incorporate new processes seamlessly.

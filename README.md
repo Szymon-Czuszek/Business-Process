@@ -18,7 +18,7 @@
 
 **🗃️ Data Models:** Data models outlining the information flow and data structures utilized by different processes.
 
-**Contributions:** Guidelines and instructions for contributing to the repository, including adding new processes or improving existing ones.
+**🤝 Contributions:** Guidelines and instructions for contributing to the repository, including adding new processes or improving existing ones.
 
 # ▶️ Usage
 

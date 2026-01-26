@@ -12,8 +12,7 @@
 - 🔗 These may encompass various domains such as supply chain management, customer relationship management, financial management, and more. The repository structure is flexible and scalable to incorporate new processes seamlessly.
 
 # 🏗️ Repository Structure
-
-**📊 BPMN Diagrams:** Contains BPMN diagrams representing various business processes, including bike manufacturing, sales, and software development.
+- **📊 BPMN Diagrams:** Contains BPMN diagrams representing various business processes, including bike manufacturing, sales, and software development.
 
 **⚙️ BPM Files:** Stores BPM (Business Process Management) files for each process, providing detailed specifications and configurations.
 

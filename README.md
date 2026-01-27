@@ -15,8 +15,7 @@
 - **📊 BPMN Diagrams:** Contains BPMN diagrams representing various business processes, including bike manufacturing, sales, and software development.
 - **⚙️ BPM Files:** Stores BPM (Business Process Management) files for each process, providing detailed specifications and configurations.
 - **📚 Documentation:** Detailed textual descriptions, integration guides, and additional resources for each business process.
-
-**🗃️ Data Models:** Data models outlining the information flow and data structures utilized by different processes.
+- **🗃️ Data Models:** Data models outlining the information flow and data structures utilized by different processes.
 
 **🤝 Contributions:** Guidelines and instructions for contributing to the repository, including adding new processes or improving existing ones.
 

@@ -24,7 +24,7 @@
 
 # 🤝 Contribution
 - ✨ Contributions to this repository are highly encouraged. Whether you have insights, improvements, or new processes to include, your contributions are valuable to the community.
-- Please refer to the contribution guidelines for instructions on how to contribute effectively.
+- 👥 Please refer to the contribution guidelines for instructions on how to contribute effectively.
 
 # 📜 License
 

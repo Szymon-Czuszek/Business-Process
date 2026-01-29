@@ -23,7 +23,8 @@
 - ⚡ It serves as a valuable resource for understanding workflows, optimizing processes, and facilitating collaboration among teams.
 
 # 🤝 Contribution
-- ✨ Contributions to this repository are highly encouraged. Whether you have insights, improvements, or new processes to include, your contributions are valuable to the community. Please refer to the contribution guidelines for instructions on how to contribute effectively.
+- ✨ Contributions to this repository are highly encouraged. Whether you have insights, improvements, or new processes to include, your contributions are valuable to the community.
+- Please refer to the contribution guidelines for instructions on how to contribute effectively.
 
 # 📜 License
 

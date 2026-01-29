@@ -27,7 +27,6 @@
 - 👥 Please refer to the contribution guidelines for instructions on how to contribute effectively.
 
 # 📜 License
-
-This repository is licensed under the MIT License. Please refer to the LICENSE file for more information.
+- This repository is licensed under the MIT License. Please refer to the LICENSE file for more information.
 
 🙏 Thank you for being a part of the Business Process Repository!
